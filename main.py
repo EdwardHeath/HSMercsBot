@@ -13,7 +13,7 @@ async def on_ready():
 # can be done with API call
 roles = ['','Caster','Fighter','Protector']
 
-minionTypes = requests.get(f'https://us.api.blizzard.com/hearthstone/metadata/sets?locale=en_US&access_token={os.getenv("BLIZZTOKEN")}').json()
+minionTypes = requests.get(f'https://us.api.blizzard.com/hearthstone/metadata/minionTypes?locale=en_US&access_token={os.getenv("BLIZZTOKEN")}').json()
 
 @client.event
 async def on_message(message):
@@ -23,8 +23,6 @@ async def on_message(message):
     if message.content.startswith('!'):
       merc = message.content[1:]
       res = requests.get(f'https://us.api.blizzard.com/hearthstone/cards?locale=en_US&gameMode=mercenaries&textFilter={merc}&access_token={os.getenv("BLIZZTOKEN")}')
-      
-      print(res.json())
       
       try:
         data = res.json()['cards'][0]
