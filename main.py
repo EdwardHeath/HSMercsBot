@@ -22,7 +22,11 @@ minionTypes = requests.get(f'https://us.api.blizzard.com/hearthstone/metadata/mi
 
 @client.event
 async def on_message(message):
-    if message.author == client.user:
+    author = message.author
+    channel = message.channel
+    server = message.guild
+
+    if author == client.user:
         return
 
     ct = f'[{datetime.datetime.now()}] - '
@@ -31,7 +35,7 @@ async def on_message(message):
       embed=discord.Embed(title="Bot Documentation", url="https://github.com/EdwardHeath/HSMercsBot/blob/9e7ea68a2418289259f1c8f6489f6fa70a4f6790/README.md", color=0xFF5733)
       embed.add_field(name='\u200B', value='Contact - https://discord.gg/y5gE3KXp')
       await message.channel.send(embed=embed)
-      print(f'{ct}Help requested')
+      print(f'{ct}Help requested by {author} in #{channel} on {server}')
       return
 
     if message.content.startswith('!'):
@@ -41,7 +45,7 @@ async def on_message(message):
       try:
         data = res.json()['cards'][0]
       except:
-        await message.channel.send(f'Could not find {merc}')
+        await message.channel.send(f'Could not find {merc} requested by {author} in #{channel} on {server}')
         print(f'{ct}invalid merc name: {merc}')
         return
 
@@ -57,7 +61,7 @@ async def on_message(message):
       embed.add_field(name=type, value=roles[data['mercenaryHero']['roleId']])
       embed.set_image(url=data['image'])
       await message.channel.send(embed=embed)
-      print(f'{ct}{data["name"]} served')
+      print(f'{ct}{data["name"]} served to {author} in #{channel} on {server}')
 
 keep_alive()
 
