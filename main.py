@@ -1,6 +1,7 @@
 import discord
 import os
 import requests
+import datetime
 
 from keep_alive import keep_alive
 
@@ -20,9 +21,13 @@ async def on_message(message):
     if message.author == client.user:
         return
 
+    ct = f'[{datetime.datetime.now()}] - '
+
     if message.content.startswith('!help'):
-      embed=discord.Embed(title="Bot Help", url="https://github.com/EdwardHeath/HSMercsBot/blob/9e7ea68a2418289259f1c8f6489f6fa70a4f6790/README.md", description="Contact <@128988971274469377> with questions.", color=0xFF5733)
+      embed=discord.Embed(title="Bot Documentation", url="https://github.com/EdwardHeath/HSMercsBot/blob/9e7ea68a2418289259f1c8f6489f6fa70a4f6790/README.md", color=0xFF5733)
+      embed.add_field(name='\u200B', value='Contact - https://discord.gg/y5gE3KXp')
       await message.channel.send(embed=embed)
+      print(f'{ct}Help requested')
       return
 
 
@@ -34,7 +39,7 @@ async def on_message(message):
         data = res.json()['cards'][0]
       except:
         await message.channel.send(f'Could not find {merc}')
-        print('invalid merc name')
+        print(f'{ct}invalid merc name: {merc}')
         return
 
       for t in minionTypes:
@@ -44,8 +49,9 @@ async def on_message(message):
       embed=discord.Embed(title=data['name'], color=0xFF5733)
       embed.add_field(name=type, value=roles[data['mercenaryHero']['roleId']])
       embed.set_image(url=data['image'])
-      embed.set_footer(text='I am a work in progress. Contact <@128988971274469377> with questions.')
+      embed.set_footer(text='Get more help [here].(https://discord.gg/y5gE3KXp)')
       await message.channel.send(embed=embed)
+      print(f'{ct}{data["name"]} served')
 
 keep_alive()
 
