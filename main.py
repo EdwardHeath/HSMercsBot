@@ -38,7 +38,7 @@ async def on_message(message):
       embed=discord.Embed(title=data['name'], color=0xFF5733)
       embed.add_field(name=type, value=roles[data['mercenaryHero']['roleId']])
       embed.set_image(url=data['image'])
-      # embed.add_field(name='',value='I am a work in progress.')
+      embed.set_footer(text='I am a work in progress.')
       await message.channel.send(embed=embed)
 
 keep_alive()
