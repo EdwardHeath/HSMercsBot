@@ -1,0 +1,788 @@
+{
+   "20":{
+      "game_id":23,
+      "name":"Alexstrasza",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/20-alexstrasza/",
+      "collectible":true
+   },
+   "100":{
+      "game_id":188,
+      "name":"Altered Beast",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/100-altered-beast/",
+      "collectible":false
+   },
+   "89":{
+      "game_id":174,
+      "name":"Ancient",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/89-ancient/",
+      "collectible":false
+   },
+   "119":{
+      "game_id":211,
+      "name":"Ancient Corehound",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/119-ancient-corehound/",
+      "collectible":false
+   },
+   "88":{
+      "game_id":173,
+      "name":"Ancient of Blossoms",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/88-ancient-of-blossoms/",
+      "collectible":false
+   },
+   "86":{
+      "game_id":171,
+      "name":"Ancient of Lore",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/86-ancient-of-lore/",
+      "collectible":false
+   },
+   "87":{
+      "game_id":172,
+      "name":"Ancient of War",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/87-ancient-of-war/",
+      "collectible":false
+   },
+   "47":{
+      "game_id":93,
+      "name":"Anduin Wrynn",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/47-anduin-wrynn/",
+      "collectible":true
+   },
+   "51":{
+      "game_id":98,
+      "name":"Antonidas",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/51-antonidas/",
+      "collectible":true
+   },
+   "128":{
+      "game_id":221,
+      "name":"Axe Flinger",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/128-axe-flinger/",
+      "collectible":false
+   },
+   "19":{
+      "game_id":22,
+      "name":"Baron Geddon",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/19-baron-geddon/",
+      "collectible":true
+   },
+   "84":{
+      "game_id":169,
+      "name":"Berserk Owlbeast",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/84-berserk-owlbeast/",
+      "collectible":false
+   },
+   "36":{
+      "game_id":53,
+      "name":"Blademaster Samuro",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/36-blademaster-samuro/",
+      "collectible":true
+   },
+   "53":{
+      "game_id":100,
+      "name":"Blink Fox",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/53-blink-fox/",
+      "collectible":true
+   },
+   "82":{
+      "game_id":167,
+      "name":"Blood Imp",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/82-blood-imp/",
+      "collectible":false
+   },
+   "21":{
+      "game_id":24,
+      "name":"Brightwing",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/21-brightwing/",
+      "collectible":true
+   },
+   "18":{
+      "game_id":21,
+      "name":"Bru'kan",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/18-brukan/",
+      "collectible":true
+   },
+   "67":{
+      "game_id":138,
+      "name":"Burrowing Scorpid",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/67-burrowing-scorpid/",
+      "collectible":false
+   },
+   "23":{
+      "game_id":26,
+      "name":"Cairne Bloodhoof",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/23-cairne-bloodhoof/",
+      "collectible":true
+   },
+   "15":{
+      "game_id":18,
+      "name":"Cariel Roame",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/15-cariel-roame/",
+      "collectible":true
+   },
+   "101":{
+      "game_id":189,
+      "name":"Chillwind Yeti",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/101-chillwind-yeti/",
+      "collectible":false
+   },
+   "49":{
+      "game_id":95,
+      "name":"Cornelius Roame",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/49-cornelius-roame/",
+      "collectible":true
+   },
+   "105":{
+      "game_id":193,
+      "name":"Cruelbite Spriggan",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/105-cruelbite-spriggan/",
+      "collectible":false
+   },
+   "57":{
+      "game_id":111,
+      "name":"Death's Head Cultist",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/57-deaths-head-cultist/",
+      "collectible":false
+   },
+   "54":{
+      "game_id":102,
+      "name":"Diablo",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/54-diablo/",
+      "collectible":true
+   },
+   "78":{
+      "game_id":160,
+      "name":"Doubling Imp",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/78-doubling-imp/",
+      "collectible":false
+   },
+   "112":{
+      "game_id":204,
+      "name":"Dragon Consort",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/112-dragon-consort/",
+      "collectible":false
+   },
+   "111":{
+      "game_id":203,
+      "name":"Dragon Egg",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/111-dragon-egg/",
+      "collectible":false
+   },
+   "115":{
+      "game_id":207,
+      "name":"Dragonkin Sorcerer",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/115-dragonkin-sorcerer/",
+      "collectible":false
+   },
+   "114":{
+      "game_id":206,
+      "name":"Drakonid Crusher",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/114-drakonid-crusher/",
+      "collectible":false
+   },
+   "81":{
+      "game_id":166,
+      "name":"Dread Infernal",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/81-dread-infernal/",
+      "collectible":false
+   },
+   "99":{
+      "game_id":187,
+      "name":"Evasive Chimera",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/99-evasive-chimera/",
+      "collectible":false
+   },
+   "118":{
+      "game_id":210,
+      "name":"Faerie Dragon",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/118-faerie-dragon/",
+      "collectible":false
+   },
+   "72":{
+      "game_id":143,
+      "name":"Fire Fly",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/72-fire-fly/",
+      "collectible":false
+   },
+   "129":{
+      "game_id":223,
+      "name":"Fireguard Destroyer",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/129-fireguard-destroyer/",
+      "collectible":false
+   },
+   "121":{
+      "game_id":213,
+      "name":"Fire Lord",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/121-fire-lord/",
+      "collectible":false
+   },
+   "122":{
+      "game_id":214,
+      "name":"Fire Sworn",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/122-fire-sworn/",
+      "collectible":false
+   },
+   "125":{
+      "game_id":217,
+      "name":"Flamewaker",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/125-flamewaker/",
+      "collectible":false
+   },
+   "124":{
+      "game_id":216,
+      "name":"Flamewaker Herald",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/124-flamewaker-herald/",
+      "collectible":false
+   },
+   "123":{
+      "game_id":215,
+      "name":"Flamewaker Sentinel",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/123-flamewaker-sentinel/",
+      "collectible":false
+   },
+   "76":{
+      "game_id":147,
+      "name":"Forbidden Ancient",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/76-forbidden-ancient/",
+      "collectible":false
+   },
+   "98":{
+      "game_id":185,
+      "name":"Frostsaber Stalker",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/98-frostsaber-stalker/",
+      "collectible":false
+   },
+   "94":{
+      "game_id":181,
+      "name":"Furbolg Den Watcher",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/94-furbolg-den-watcher/",
+      "collectible":false
+   },
+   "96":{
+      "game_id":183,
+      "name":"Furbolg Pathfinder",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/96-furbolg-pathfinder/",
+      "collectible":false
+   },
+   "95":{
+      "game_id":182,
+      "name":"Furbolg Shaman",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/95-furbolg-shaman/",
+      "collectible":false
+   },
+   "92":{
+      "game_id":179,
+      "name":"Furbolg Totemic",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/92-furbolg-totemic/",
+      "collectible":false
+   },
+   "93":{
+      "game_id":180,
+      "name":"Furbolg Ursa",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/93-furbolg-ursa/",
+      "collectible":false
+   },
+   "97":{
+      "game_id":184,
+      "name":"Furbolg Warrior",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/97-furbolg-warrior/",
+      "collectible":false
+   },
+   "34":{
+      "game_id":50,
+      "name":"Garrosh Hellscream",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/34-garrosh-hellscream/",
+      "collectible":true
+   },
+   "75":{
+      "game_id":146,
+      "name":"Glacial Shard",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/75-glacial-shard/",
+      "collectible":false
+   },
+   "127":{
+      "game_id":220,
+      "name":"Grim Patron",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/127-grim-patron/",
+      "collectible":false
+   },
+   "6":{
+      "game_id":6,
+      "name":"Grommash Hellscream",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/6-grommash-hellscream/",
+      "collectible":true
+   },
+   "22":{
+      "game_id":25,
+      "name":"Gruul",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/22-gruul/",
+      "collectible":true
+   },
+   "24":{
+      "game_id":28,
+      "name":"Guff Runetotem",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/24-guff-runetotem/",
+      "collectible":true
+   },
+   "41":{
+      "game_id":60,
+      "name":"Gul'dan",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/41-guldan/",
+      "collectible":true
+   },
+   "63":{
+      "game_id":134,
+      "name":"Hecklefang Hyena",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/63-hecklefang-hyena/",
+      "collectible":false
+   },
+   "110":{
+      "game_id":198,
+      "name":"Hulking Owlbeast",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/110-hulking-owlbeast/",
+      "collectible":false
+   },
+   "113":{
+      "game_id":205,
+      "name":"Hungry Dragon",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/113-hungry-dragon/",
+      "collectible":false
+   },
+   "65":{
+      "game_id":136,
+      "name":"Hyena Alpha",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/65-hyena-alpha/",
+      "collectible":false
+   },
+   "109":{
+      "game_id":197,
+      "name":"Icehowl Coldsnap",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/109-icehowl-coldsnap/",
+      "collectible":false
+   },
+   "11":{
+      "game_id":12,
+      "name":"Illidan Stormrage",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/11-illidan-stormrage/",
+      "collectible":true
+   },
+   "61":{
+      "game_id":132,
+      "name":"Injured Marauder",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/61-injured-marauder/",
+      "collectible":false
+   },
+   "103":{
+      "game_id":191,
+      "name":"Ironbeak Owl",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/103-ironbeak-owl/",
+      "collectible":false
+   },
+   "50":{
+      "game_id":97,
+      "name":"Jaina Proudmoore",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/50-jaina-proudmoore/",
+      "collectible":true
+   },
+   "83":{
+      "game_id":168,
+      "name":"Jumbo Imp",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/83-jumbo-imp/",
+      "collectible":false
+   },
+   "77":{
+      "game_id":155,
+      "name":"Kazakus",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/77-kazakus/",
+      "collectible":false
+   },
+   "73":{
+      "game_id":144,
+      "name":"Kindling Elemental",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/73-kindling-elemental/",
+      "collectible":false
+   },
+   "30":{
+      "game_id":43,
+      "name":"King Krush",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/30-king-krush/",
+      "collectible":true
+   },
+   "29":{
+      "game_id":42,
+      "name":"King Mukla",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/29-king-mukla/",
+      "collectible":true
+   },
+   "62":{
+      "game_id":133,
+      "name":"Kolkar Pack Runner",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/62-kolkar-pack-runner/",
+      "collectible":false
+   },
+   "3":{
+      "game_id":3,
+      "name":"Kurtrus Ashfallen",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/3-kurtrus-ashfallen/",
+      "collectible":true
+   },
+   "43":{
+      "game_id":63,
+      "name":"Lady Anacondra",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/43-lady-anacondra/",
+      "collectible":true
+   },
+   "126":{
+      "game_id":218,
+      "name":"Lava Elemental",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/126-lava-elemental/",
+      "collectible":false
+   },
+   "130":{
+      "game_id":228,
+      "name":"Lava Spawn",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/130-lava-spawn/",
+      "collectible":false
+   },
+   "52":{
+      "game_id":99,
+      "name":"Lich King",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/52-lich-king/",
+      "collectible":true
+   },
+   "2":{
+      "game_id":2,
+      "name":"Lord Jaraxxus",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/2-lord-jaraxxus/",
+      "collectible":true
+   },
+   "79":{
+      "game_id":161,
+      "name":"Mad Summoner",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/79-mad-summoner/",
+      "collectible":false
+   },
+   "44":{
+      "game_id":64,
+      "name":"Malfurion Stormrage",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/44-malfurion-stormrage/",
+      "collectible":true
+   },
+   "85":{
+      "game_id":170,
+      "name":"Maniac Owlbeast",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/85-maniac-owlbeast/",
+      "collectible":false
+   },
+   "37":{
+      "game_id":54,
+      "name":"Mannoroth",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/37-mannoroth/",
+      "collectible":true
+   },
+   "25":{
+      "game_id":35,
+      "name":"Medivh",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/25-medivh/",
+      "collectible":false
+   },
+   "12":{
+      "game_id":14,
+      "name":"Millhouse Manastorm",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/12-millhouse-manastorm/",
+      "collectible":true
+   },
+   "120":{
+      "game_id":212,
+      "name":"Molten Giant",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/120-molten-giant/",
+      "collectible":false
+   },
+   "28":{
+      "game_id":41,
+      "name":"Morgl the Oracle",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/28-morgl-the-oracle/",
+      "collectible":true
+   },
+   "39":{
+      "game_id":56,
+      "name":"Mutanus",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/39-mutanus/",
+      "collectible":true
+   },
+   "8":{
+      "game_id":8,
+      "name":"Natalie Seline",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/8-natalie-seline/",
+      "collectible":true
+   },
+   "27":{
+      "game_id":40,
+      "name":"Old Murk-Eye",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/27-old-murk-eye/",
+      "collectible":true
+   },
+   "66":{
+      "game_id":137,
+      "name":"Pit Snake",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/66-pit-snake/",
+      "collectible":false
+   },
+   "74":{
+      "game_id":145,
+      "name":"Primordial Protector",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/74-primordial-protector/",
+      "collectible":false
+   },
+   "5":{
+      "game_id":5,
+      "name":"Prophet Velen",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/5-prophet-velen/",
+      "collectible":true
+   },
+   "107":{
+      "game_id":195,
+      "name":"Raging Snowsurge",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/107-raging-snowsurge/",
+      "collectible":false
+   },
+   "17":{
+      "game_id":20,
+      "name":"Ragnaros",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/17-ragnaros/",
+      "collectible":true
+   },
+   "38":{
+      "game_id":55,
+      "name":"Rathorian",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/38-rathorian/",
+      "collectible":true
+   },
+   "56":{
+      "game_id":110,
+      "name":"Razorboar",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/56-razorboar/",
+      "collectible":false
+   },
+   "55":{
+      "game_id":103,
+      "name":"Razorfen Beastmaster",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/55-razorfen-beastmaster/",
+      "collectible":false
+   },
+   "58":{
+      "game_id":112,
+      "name":"Razormane Battleguard",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/58-razormane-battleguard/",
+      "collectible":false
+   },
+   "59":{
+      "game_id":113,
+      "name":"Razormane Raider",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/59-razormane-raider/",
+      "collectible":false
+   },
+   "1":{
+      "game_id":1,
+      "name":"Rexxar",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/1-rexxar/",
+      "collectible":true
+   },
+   "104":{
+      "game_id":192,
+      "name":"Rimerazor Shardling",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/104-rimerazor-shardling/",
+      "collectible":false
+   },
+   "106":{
+      "game_id":194,
+      "name":"Rimerazor Slasher",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/106-rimerazor-slasher/",
+      "collectible":false
+   },
+   "60":{
+      "game_id":131,
+      "name":"Rimetongue",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/60-rimetongue/",
+      "collectible":false
+   },
+   "10":{
+      "game_id":11,
+      "name":"Rokara",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/10-rokara/",
+      "collectible":true
+   },
+   "80":{
+      "game_id":164,
+      "name":"Satyr Overseer",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/80-satyr-overseer/",
+      "collectible":false
+   },
+   "35":{
+      "game_id":52,
+      "name":"Saurfang",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/35-saurfang/",
+      "collectible":true
+   },
+   "7":{
+      "game_id":7,
+      "name":"Scabbs Cutterbutter",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/7-scabbs-cutterbutter/",
+      "collectible":true
+   },
+   "64":{
+      "game_id":135,
+      "name":"Scavenging Hyena",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/64-scavenging-hyena/",
+      "collectible":false
+   },
+   "102":{
+      "game_id":190,
+      "name":"Shardtooth Bear",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/102-shardtooth-bear/",
+      "collectible":false
+   },
+   "68":{
+      "game_id":139,
+      "name":"Starving Buzzard",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/68-starving-buzzard/",
+      "collectible":false
+   },
+   "71":{
+      "game_id":142,
+      "name":"Stonetusk Boar",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/71-stonetusk-boar/",
+      "collectible":false
+   },
+   "13":{
+      "game_id":15,
+      "name":"Sylvanas Windrunner",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/13-sylvanas-windrunner/",
+      "collectible":true
+   },
+   "32":{
+      "game_id":45,
+      "name":"Tamsin Roame",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/32-tamsin-roame/",
+      "collectible":true
+   },
+   "31":{
+      "game_id":44,
+      "name":"Tavish Stormpike",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/31-tavish-stormpike/",
+      "collectible":true
+   },
+   "69":{
+      "game_id":140,
+      "name":"Thickhide Kodo",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/69-thickhide-kodo/",
+      "collectible":false
+   },
+   "33":{
+      "game_id":49,
+      "name":"Thrall",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/33-thrall/",
+      "collectible":true
+   },
+   "4":{
+      "game_id":4,
+      "name":"Tirion Fordring",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/4-tirion-fordring/",
+      "collectible":true
+   },
+   "131":{
+      "game_id":231,
+      "name":"Toki",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/131-toki/",
+      "collectible":false
+   },
+   "90":{
+      "game_id":175,
+      "name":"Treant",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/90-treant/",
+      "collectible":false
+   },
+   "46":{
+      "game_id":71,
+      "name":"Trigore the Lasher",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/46-trigore-the-lasher/",
+      "collectible":false
+   },
+   "91":{
+      "game_id":178,
+      "name":"Tur Ragepaw",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/91-tur-ragepaw/",
+      "collectible":false
+   },
+   "116":{
+      "game_id":208,
+      "name":"Twilight Whelp",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/116-twilight-whelp/",
+      "collectible":false
+   },
+   "45":{
+      "game_id":69,
+      "name":"Tyrande",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/45-tyrande/",
+      "collectible":true
+   },
+   "48":{
+      "game_id":94,
+      "name":"Uther",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/48-uther/",
+      "collectible":true
+   },
+   "14":{
+      "game_id":17,
+      "name":"Valeera Sanguinar",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/14-valeera-sanguinar/",
+      "collectible":false
+   },
+   "26":{
+      "game_id":38,
+      "name":"Varden Dawngrasp",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/26-varden-dawngrasp/",
+      "collectible":true
+   },
+   "9":{
+      "game_id":9,
+      "name":"Varian Wrynn",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/9-varian-wrynn/",
+      "collectible":true
+   },
+   "70":{
+      "game_id":141,
+      "name":"Venomous Scorpid",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/70-venomous-scorpid/",
+      "collectible":false
+   },
+   "117":{
+      "game_id":209,
+      "name":"Volcanic Drake",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/117-volcanic-drake/",
+      "collectible":false
+   },
+   "42":{
+      "game_id":62,
+      "name":"Vol'jin",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/42-voljin/",
+      "collectible":true
+   },
+   "108":{
+      "game_id":196,
+      "name":"Wall of Living Frost",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/108-wall-of-living-frost/",
+      "collectible":false
+   },
+   "40":{
+      "game_id":57,
+      "name":"Warmaster Voone",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/40-warmaster-voone/",
+      "collectible":true
+   },
+   "16":{
+      "game_id":19,
+      "name":"Xyrella",
+      "url":"https://outof.cards/hearthstone/mercenaries/heroes/16-xyrella/",
+      "collectible":true
+   }
+}

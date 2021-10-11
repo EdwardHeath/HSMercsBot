@@ -2,10 +2,14 @@ import discord
 import os
 import requests
 import datetime
+import json
 
 from keep_alive import keep_alive
 
 client = discord.Client()
+
+f = open('db.json','r')
+outOfData = json.load(f)
 
 @client.event
 async def on_ready():
@@ -30,11 +34,10 @@ async def on_message(message):
       print(f'{ct}Help requested')
       return
 
-
     if message.content.startswith('!'):
       merc = message.content[1:]
       res = requests.get(f'https://us.api.blizzard.com/hearthstone/cards?locale=en_US&gameMode=mercenaries&textFilter={merc}&access_token={os.getenv("BLIZZTOKEN")}')
-      
+           
       try:
         data = res.json()['cards'][0]
       except:
@@ -42,17 +45,22 @@ async def on_message(message):
         print(f'{ct}invalid merc name: {merc}')
         return
 
+      for m in outOfData.values():
+        if (m['name'] == data['name']):
+          url = m['url']
+
       for t in minionTypes:
         if t['id'] == data['minionTypeId']:
           type = t['name']
 
-      embed=discord.Embed(title=data['name'], color=0xFF5733)
+      embed=discord.Embed(title=data['name'], url=url, color=0xFF5733)
       embed.add_field(name=type, value=roles[data['mercenaryHero']['roleId']])
       embed.set_image(url=data['image'])
-      embed.set_footer(text='Get more help [here].(https://discord.gg/y5gE3KXp)')
       await message.channel.send(embed=embed)
       print(f'{ct}{data["name"]} served')
 
 keep_alive()
 
 client.run(os.getenv('TOKEN'))
+
+f.close()
